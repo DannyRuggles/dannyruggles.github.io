@@ -428,16 +428,16 @@ section .title::after{
     background: rgb(163, 20, 220);
 }
 .skills-content .right .html::before{
-    width: 60%;
+    width: 90%;
 }
 .skills-content .right .css::before{
-    width: 40%;
+    width: 70%;
 }
 .skills-content .right .js::before{
-    width: 10%;
+    width: 60%;
 }
 .skills-content .right .php::before{
-    width: 10%;
+    width: 40%;
 }
 .skills-content .right .mysql::before{
     width: 30%;
