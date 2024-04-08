@@ -439,7 +439,7 @@ section .title::after{
 .skills-content .right .php::before{
     width: 70%;
 }
-.skills-content .right .c++::before{
+.skills-content .right .c::before{
     width: 65%;
 }
 
