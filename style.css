@@ -363,8 +363,8 @@ section .title::after{
 }
 /*projects*/
 #projects{
-    background-image:linear-gradient(hsla(200, 30%, 70%, 0.568), hsla(255, 30%, 50%, 1), hsla(275, 60%, 35%, 1));
-    box-shadow: 0px -10px 20px rgba(21, 2, 39, 0.356);
+    background-image:linear-gradient(hsla(201, 24%, 31%, 0.568), hsla(255, 30%, 50%, 1), hsla(275, 60%, 35%, 1));
+    box-shadow: 0px -10px 20px rgba(13, 1, 24, 0.555);
 }
 
 
@@ -393,12 +393,14 @@ section .title::after{
     color:#08051f;
 }
 .AIpic .texts{
-    font-size: 20px;
-    font-weight: 50;
+    font-size: 16px;
+    font-weight: 0;
+    padding-top: 1em;
     padding-left: 2em;
     padding-right: 2em;
     font-family: 'Poppins', sans-serif;
     color: #08060a;
+    text-align: justify;
 }
 #AI{
     margin: auto;
