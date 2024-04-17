@@ -332,13 +332,14 @@ section .title::after{
 .services .serv-content .card{
     width: calc(33% - 20px);
     background: #222;
+    text-align: justify;
     text-align: center;
     border-radius: 6px;
     padding: 50px 25px;
     cursor: pointer;
     transition: all 0.3s ease;
     height: 25em;
-    text-align: justify;
+    
 }
 .services .serv-content .card:hover{
     background: rgb(171, 12, 211);
@@ -476,7 +477,6 @@ section .title::after{
 }
 .skills .skills-content .right .info{
     display: flex;
-    margin-top: ;
     margin-bottom: 5px;
     align-items: center;
     justify-content: space-between;
