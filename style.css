@@ -332,7 +332,7 @@ section .title::after{
 .services .serv-content .card{
     width: calc(33% - 20px);
     background: #222;
-    text-align: justify;
+    justify-content: space-between;
     text-align: center;
     border-radius: 6px;
     padding: 50px 25px;
@@ -434,7 +434,7 @@ section .title::after{
     width: calc(50% - 30px);
 }
 .skills .skills-content .left .text{
- 
+     
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 10px;
@@ -449,7 +449,7 @@ section .title::after{
 }
 .skills p{
     text-align: center;
-  
+     
 }
 .skills .skills-content .left a{
     display: inline-block;
