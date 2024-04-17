@@ -380,7 +380,7 @@ section .title::after{
     overflow: hidden;
     width: 100%;
     font-size: medium;  
-    border: solid rgba(18, 3, 36, 0.712) 1rem;  
+    border: solid rgba(18, 3, 36, 0.712) 0.5em;  
 }
 
 .AIpic .text{
@@ -407,7 +407,7 @@ section .title::after{
     width: 90%;
     height: 90%;
     display: block;
-    outline: #b3b3b359 solid 1em; /* Outline for the*/
+    outline: #b3b3b359 solid 0.5em; /* Outline for the*/
     border-radius: 1em;   
 }
 #WA{
@@ -415,7 +415,7 @@ section .title::after{
     width: 90%;
     height: 90%;
     display: block;
-    outline: #b3b3b35d solid 1em; /* Outline for the*/
+    outline: #b3b3b35d solid 0.5em; /* Outline for the*/
     border-radius: 1em;   
 }
 /* skills section styling */
@@ -432,7 +432,7 @@ section .title::after{
     width: calc(50% - 30px);
 }
 .skills .skills-content .left .text{
-   
+    text-align: justify;
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 10px;
@@ -443,9 +443,11 @@ section .title::after{
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 10px;
+    text-align: justify;
 }
 .skills p{
     text-align: center;
+    text-align: justify;
 }
 .skills .skills-content .left a{
     display: inline-block;
