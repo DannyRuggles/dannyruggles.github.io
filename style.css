@@ -434,7 +434,7 @@ section .title::after{
     width: calc(50% - 30px);
 }
 .skills .skills-content .left .text{
-    text-align: justify;
+ 
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 10px;
@@ -445,11 +445,11 @@ section .title::after{
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 10px;
-    text-align: justify;
+     
 }
 .skills p{
     text-align: center;
-    text-align: justify;
+  
 }
 .skills .skills-content .left a{
     display: inline-block;
