@@ -95,7 +95,7 @@ section .title::after{
     padding: 30px 0;
     font-family: 'Ubuntu', sans-serif;
     transition: all 0.3s ease;
-    box-shadow: 0px 10px 15px rgba(21, 2, 39, 0.356);
+    box-shadow: 0px 10px 15px rgba(21, 2, 39, 0.2);
     /* border-bottom: solid 5px rgba(10, 1, 15, 0.349); */
 }
 .navbar.sticky{
@@ -263,7 +263,7 @@ section .title::after{
 }
 #about{
     background-image:linear-gradient(hsla(275, 60%, 35%, 1), hsla(255, 30%, 50%, 1), hsla(200, 30%, 70%, 0.568));
-    box-shadow: 0px -10px 20px rgba(21, 2, 39, 0.356);
+    box-shadow: 0px -10px 20px rgba(21, 2, 39, 0.2);
     /* box-shadow: 0px 40px 20px rgba(238, 204, 13, 0.979); */
 }
 #about img{
@@ -365,7 +365,7 @@ section .title::after{
 /*projects*/
 #projects{
     background-image:linear-gradient(hsla(201, 24%, 31%, 0.568), hsla(255, 30%, 50%, 1), hsla(275, 60%, 35%, 1));
-    box-shadow: 0px -10px 20px rgba(13, 1, 24, 0.555);
+    box-shadow: 0px -10px 20px rgba(13, 1, 24, 0.2);
 }
 
 
@@ -377,7 +377,7 @@ section .title::after{
     margin: 2em;
     text-align: center;
     border-radius: 1em;
-    box-shadow: rgba(31, 25, 53, 0.664) 15px 15px 20px; 
+    box-shadow: rgba(31, 25, 53, 0.2) 15px 15px 20px; 
     overflow: hidden;
     width: 100%;
     font-size: medium;  
